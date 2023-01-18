@@ -1,5 +1,5 @@
 {
-  "title": "Dont work button Log In",
+  "title":"Dont work button Log In",
   "severity":"Blocker",
-  "steps": "1. Open site, 2. Click button"
+  "steps":"1. Open site, 2. Click button"
 }
